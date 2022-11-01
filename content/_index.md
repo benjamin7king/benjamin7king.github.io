@@ -2,7 +2,7 @@
 title="About"
 +++
 
-Hello! My name is Austin, and I am currently studying LJST at Amherst College. I like to cook, hike and read in my free time. Here is some interesting facts about me:
+Hello! My name is Ben, and I am currently studying Econ and Architecture at Amherst College. I like to cook, hike and read in my free time. Here is some interesting facts about me:
 # Books I wrote
 - How to make cookies (2033)
 - How to make a website in Hugo and Github Pages (2019)
