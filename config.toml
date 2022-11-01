@@ -1,11 +1,11 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://benjamin7king.github.io/' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
-copyright = "© Austin"
+title = 'Kreate Community'
+copyright = "© KREATE"
 blogTitle='Check out my blog:'
 
 # For code highlighting
