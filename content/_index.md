@@ -33,7 +33,7 @@ Do a job, Find a job, Sponsor a job
 * Property management
 * K-12 tutoring
 * Writing workshops (essay, email, cover letter, etc.)
-* Connect with artists
+* Connect with artists of all types
 * Video editing
 * General business consulting
 * NFT services
