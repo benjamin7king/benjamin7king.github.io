@@ -6,7 +6,7 @@ Welcome to Kreate Community! Our mission is to create communities where people b
 
 Have your vision supported!
 
-# ***Custom*** Design and Development Solutions
+# **Custom** Design and Development Solutions
 
 ### Participatory
 
